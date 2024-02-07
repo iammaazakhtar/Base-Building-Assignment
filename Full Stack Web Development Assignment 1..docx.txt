@@ -1,0 +1,44 @@
+﻿Base Building ASSIGNMENT NO:1
+
+
+Q1-What is internet? Explain in your own words.
+
+
+Ans- In simple words internet is a connection of computer and 
+networks. Internet transferring information from one place to another place.
+
+
+Q2-What is a web browser? Explain in your own words.
+
+
+Ans- Basically a web browser is a simple tool that help us for 
+searching some things on web easily and visualize what we search.
+
+
+Q3- What is browser engine? Explain in your own words.
+
+
+Ans- Browser engine is software which transform HTML document 
+and other resources of a webpage into a interactive visual 
+representation on a user’s device.
+
+
+Q4- What is static site? Explain in your own words.
+
+
+Ans- Basically static site is a simple website which was use for own 
+purpose like resume, school website, etc.
+→Changes not done frequently on these type of website
+→In this the data not fetch to the server
+→we can change data by ourself
+→It is very simple type of website 
+
+
+Q-5 What is a dynamic site? Explain in your own words
+
+
+Ans- Dynamic sites generate content based on user interaction and 
+fetch content from dedicated server. It is very powerful website.
+→It has dedicated data base to store the data
+→It is very flexible to do work
+→Web site like twitter is the example of dynamic site
